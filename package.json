@@ -1,0 +1,15 @@
+{
+  "name": "cyfie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "translate:sass": "node index.js --input=$INPUT  --output=$OUTPUT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flags": "^0.1.3"
+  }
+}
